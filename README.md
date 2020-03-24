@@ -16,6 +16,9 @@ We are outcome-driven. Instead of using static job descriptions - at a startup y
 ### Data Science
 Predict commercial performance of a project based on real-time operational data. Score construction issues based on probability model of occurences, relationships, and impact.
 
+### Operations Research
+Troubleshoot supply chain components and recommend improvements based on failure data.
+
 ### Data Engineer
 Customers wish to adapt the data they have in hand and derive insights from it. Feed customer's data from various sources such as online APIs, databases, and data lakes, into the Nucon data pipeline. Maintain and grow data pipeline.
 
